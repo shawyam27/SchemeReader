@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ministry Of Social Justice and Empowerment",
+    "source_url": "https://www.india.gov.in/my-government/schemes/search?nodalMinistryName=%5B%22Ministry+Of+Social+Justice+and+Empowerment%22%5D&pagenumber=1",
+    "source_file": "dataV3\\Ministry_Of_Social_Justice_and_Empowerment\\Ministry_Of_Social_Justice_and_Empowerment.md"
+  },
+  {
+    "name": "Ministry of Education",
+    "source_url": "https://www.india.gov.in/my-government/schemes/search?nodalMinistryName=%5B%22Ministry+of+Education%22%5D&pagenumber=1",
+    "source_file": "dataV3\\Ministry_of_Education\\Ministry_of_Education.md"
+  },
+  {
+    "name": "Ministry Of Science And Technology",
+    "source_url": "https://www.india.gov.in/my-government/schemes/search?nodalMinistryName=%5B%22Ministry+Of+Science+And+Technology%22%5D&pagenumber=1",
+    "source_file": "dataV3\\Ministry_Of_Science_And_Technology\\Ministry_Of_Science_And_Technology.md"
+  },
+  {
+    "name": "Ministry Of Agriculture and Farmers Welfare",
+    "source_url": "https://www.india.gov.in/my-government/schemes/search?nodalMinistryName=%5B%22Ministry+Of+Agriculture+and+Farmers+Welfare%22%5D&pagenumber=1",
+    "source_file": "dataV3\\Ministry_Of_Agriculture_and_Farmers_Welfare\\Ministry_Of_Agriculture_and_Farmers_Welfare.md"
+  },
+  {
+    "name": "Ministry Of Commerce And Industry",
+    "source_url": "https://www.india.gov.in/my-government/schemes/search?nodalMinistryName=%5B%22Ministry+Of+Commerce+And+Industry%22%5D&pagenumber=1",
+    "source_file": "dataV3\\Ministry_Of_Commerce_And_Industry\\Ministry_Of_Commerce_And_Industry.md"
+  }
+]
